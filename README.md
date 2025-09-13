@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://pub-b52e24a001bd463a848cb2d8c8667f63.r2.dev/browseros-banner.png" alt="backed-by-yc" >
 
-### Your browser, with AI superpowers 🚀
+# Scout #
+
+### Your browser with AI superpowers 🚀
 <br></br>
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-blue)](https://discord.gg/YKwjt5vuKr)
-[![Twitter](https://img.shields.io/twitter/follow/browserOS_ai?style=social)](https://twitter.com/browseros_ai)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE)
 <a href="https://files.browseros.com/download/BrowserOS.dmg">
   <img src="https://img.shields.io/badge/Download-macOS-black?style=flat&logo=apple&logoColor=white" alt="Download for macOS (beta)" />
@@ -17,21 +16,18 @@
 </a>
 <br />
 
-<br />
-<img src="resources/media/backed-by-yc.png" alt="backed-by-yc" width="140px">
-
 </div>
 
 ## 
-🌐 BrowserOS is an open-source chromium fork that runs AI agents natively. **Your open-source, privacy-first alternative to Perplexity Comet, Dia**.
+🤖 Scout is an open-source chromium fork augmented with best in class agentic AI capabilities.
 
-🔒 Privacy first - use your own API keys or run local models with Ollama. Your data stays on your computer.
+🌐 Scout intelligently explores the web, gathers information, and reports back with exactly what you need.
 
-💡 Join our [Discord](https://discord.gg/YKwjt5vuKr) and help us build! Have feature requests? [Suggest here](https://github.com/browseros-ai/BrowserOS/issues/99).
+🔒 Privacy first. Use your own API keys or run local models with Ollama. Your data stays on your computer.
 
 ## Quick start
 
-1. Download and install BrowserOS:
+1. Download and install Scout:
    - [macOS](https://files.browseros.com/download/BrowserOS.dmg)
    - [Windows](https://files.browseros.com/download/BrowserOS_installer.exe)
    - [Linux](https://files.browseros.com/download/BrowserOS.AppImage)
@@ -39,7 +35,7 @@
 3. Connect your AI provider (OpenAI, Anthropic, or local Ollama)
 4. Start automating!
 
-## What makes BrowserOS special
+## What makes Scout special
 
 <div align="center">
 <img src="https://cdn.browseros.com/resources/usecase.png" alt="example-use-cases" width="85%">
@@ -105,26 +101,9 @@ Many loved Arc, but it was closed source. When they abandoned users, there was n
 They're a search/ad company. Your browser history becomes their product. We keep everything local.
 </details>
 
-## Contributing
-
-We'd love your help making BrowserOS better!
-
-- 🐛 [Report bugs](https://github.com/nxtscape/nxtscape/issues)
-- 💡 [Suggest features](https://github.com/browseros-ai/BrowserOS/issues/99)
-- 💬 [Join Discord](https://discord.gg/YKwjt5vuKr)
-- 🐦 [Follow on Twitter](https://x.com/browserOS_ai)
-
 ## License
 
-BrowserOS is open source under the [AGPL-3.0 license](LICENSE).
-
-## Stargazers
-Thank you to all our supporters!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=browseros-ai/BrowserOS&type=Date)](https://www.star-history.com/#browseros-ai/BrowserOS&Date)
-
-## 
+Scout is open source under the [AGPL-3.0 license](LICENSE).
 
 <p align="center">
-Built with ❤️ from San Francisco
 </p>
